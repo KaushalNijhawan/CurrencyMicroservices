@@ -9,3 +9,5 @@ URL for Spring API gateway : http://localhost:8765
 
 URL for zipkin server :http://localhost:9411/zipkin
 URL for rabbitmq : http://localhost:15672
+
+All the microservices have been deployed to docker and configurations are set inside the docker-compose.yaml file
